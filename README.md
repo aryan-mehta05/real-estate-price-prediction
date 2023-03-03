@@ -18,7 +18,7 @@ To understand what the different columns of the dataset mean:
 * **LSTAT** - % lower status of the population
 * **MEDV** - Median value of owner-occupied homes in $1000's
 
-********
+***
 
 This project compares 3 different models, namely:
 * Decision Tree
