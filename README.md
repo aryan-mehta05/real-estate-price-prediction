@@ -1,5 +1,7 @@
 # Real Estate Price Prediction
 
+The dataset used in this project is the ***Boston Housing Dataset***.
+
 This project compares 3 different models, namely:
 * Decision Tree
 * Linear Regression
